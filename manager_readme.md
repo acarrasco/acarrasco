@@ -8,7 +8,7 @@ An engineering team is like a *band of brothers (and sisters)*, we are going to 
 
 ## Who I am
 
-I have a *Computer Engineering* degree at the University Carlos III of Madrid; majoring in *Distributed and Real Time Systems* (and minoring in *Artificial Intelligence*); and a Master's degree in *Computer Science and Technology* as well. I was close to pursue a PhD, but I ultimately but that I wasn't cut for that.
+I have a *Computer Engineering* degree at the University Carlos III of Madrid; majoring in *Distributed and Real Time Systems* (and minoring in *Artificial Intelligence*); and a Master's degree in *Computer Science and Technology* as well. I was close to pursue a PhD, but I ultimately found out that I wasn't cut for it.
 
 I worked in a variety of industries (Hardware IP, Finance, Gambling, Social Marketing, Blockchain). Instead of specializing I have accumulated too much surface knowledge (and I manage to make it useful somehow).
 
